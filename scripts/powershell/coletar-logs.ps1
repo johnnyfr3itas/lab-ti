@@ -1,0 +1,1 @@
+Write-Output "Coletando logs do sistema..."

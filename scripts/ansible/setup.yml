@@ -1,0 +1,7 @@
+- name: Exemplo de playbook Ansible
+  hosts: all
+  tasks:
+    - name: Instalar Apache
+      apt:
+        name: apache2
+        state: present
