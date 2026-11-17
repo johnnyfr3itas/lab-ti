@@ -30,6 +30,7 @@ Cada pasta contém um cenário com documentação passo a passo, scripts e diagr
 
 ### 🔐 Segurança
 - [docs/seguranca.md](docs/seguranca.md)
+- [labs/jumpserver/README.md](labs/jumpserver/README.md)
 - [labs/pfsense/configuracao-basica.md](labs/pfsense/configuracao-basica.md)
 - [labs/fortigate/firewall-basico.md](labs/fortigate/firewall-basico.md)
 - [labs/pihole/bloqueio-propagandas.md](labs/pihole/bloqueio-propagandas.md)
